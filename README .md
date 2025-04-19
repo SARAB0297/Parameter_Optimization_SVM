@@ -84,5 +84,5 @@ python svm_experiment.py
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-Collab link for this :- https://colab.research.google.com/drive/1k9nkubwlQZkNm5ysEUQHccR5eP-eqg6-?usp=sharing
+Collab link for this :- https://colab.research.google.com/drive/1txyq7c49IqcqoXB0pjDuEbI4A-1IBm1e?usp=sharing
 
